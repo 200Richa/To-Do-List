@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #FEECE9;
+    text-align: center;
+}
+
+.title {
+    color: #F47340;
+    font-family: 'Licorice', cursive;
+    font-weight: 900;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.item {
+    background-color: #F9D371;
+    width: 40%;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 7px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 1.5rem;
+}
+
+#todo-form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.done-btn {
+    float: right;
+}
+
+#input-task {
+    border-radius: 25px;
+    width: 300px;
+    border: 2px solid #fff;
+    margin: auto;
+}
